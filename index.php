@@ -35,9 +35,9 @@
 </div>
 <!-- ini adalah penutup navbar-->
 <!-- content1-->
-<div class="container">
+<div class="container" id="perkenalan">
   <div class="row">
-    <div class="col-8">
+    <div class="col-4">
       
       <div class="card mx-auto" style="width: 18rem;">
   <img src="assets/img/asraf.png" 
@@ -48,7 +48,7 @@
   </div>
 </div>  
     </div>
-    <div class="col-4">
+    <div class="col-8">
       <h1>Selamat datang di website saya</h1>
       <p>Perkenalkan saya muhammad asraf biasa di panggil asraf,hobi saya main futsal dan berenang
           ,saya benci menunggu dan benci virtual,dan paling benci covid
@@ -58,6 +58,32 @@
    
   </div>
 </div>
+<!-- penutup content1 -->
+<!-- content2-->
+<div class="container" id="alamat">
+  <div class="row">
+    <div class="col-4">
+      
+      <div class="card mx-auto" style="width: 18rem;">
+  <img src="assets/img/asraf.png" 
+  class="card-img-top"
+  style="width: 9rem;">
+  <div class="card-body">
+    <p class="card-text">asraf</p>
+  </div>
+</div>  
+    </div>
+    <div class="col-8">
+      <h1>Selamat datang di website saya</h1>
+      <p>Perkenalkan saya muhammad asraf biasa di panggil asraf,hobi saya main futsal dan berenang
+          ,saya benci menunggu dan benci virtual,dan paling benci covid
+          saya ahli main voly,dan bermain game
+      </p>
+    </div>
+   
+  </div>
+</div>
+<!-- penutup content2 -->
 </div>
 <!-- ini adalah pembungkus-->
 
